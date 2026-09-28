@@ -10,11 +10,16 @@
 ### Pre Security
 - [x] Введение в кибербезопасность
 - [ ] Основы сетей
-- [x] Основы операционных систем (Linux/Windows) — Linux CLI Basics, Windows CLI Basics
+- [x] Основы операционных систем (Linux/Windows) — Linux CLI Basics, Windows CLI Basics, Operating System Security
 - [ ] Основы веб-технологий
 
 ### Jr Penetration Tester
 - [ ] Пока не начал
+
+## 📝 Write-ups
+- [Linux CLI Basics](writeups/linux-cli-basics.md)
+- [Windows CLI Basics](writeups/windows-cli-basics.md)
+- [Operating System Security](writeups/operating-system-security.md)
 
 ## 📁 Структура репозитория
 
