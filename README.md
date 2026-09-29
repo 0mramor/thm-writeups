@@ -20,6 +20,7 @@
 - [Linux CLI Basics](writeups/linux-cli-basics.md)
 - [Windows CLI Basics](writeups/windows-cli-basics.md)
 - [Operating System Security](writeups/operating-system-security.md)
+- [Data Representation](writeups/data-representation.md)
 
 ## 📁 Структура репозитория
 
