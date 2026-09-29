@@ -21,6 +21,7 @@
 - [Windows CLI Basics](writeups/windows-cli-basics.md)
 - [Operating System Security](writeups/operating-system-security.md)
 - [Data Representation](writeups/data-representation.md)
+- [Data Encoding](writeups/data-encoding.md)
 
 ## 📁 Структура репозитория
 
