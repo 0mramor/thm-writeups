@@ -22,6 +22,7 @@
 - [Operating System Security](writeups/operating-system-security.md)
 - [Data Representation](writeups/data-representation.md)
 - [Data Encoding](writeups/data-encoding.md)
+- [Python Simple Demo](writeups/python-simple-demo.md)
 
 ## 📁 Структура репозитория
 
