@@ -23,6 +23,7 @@
 - [Data Representation](writeups/data-representation.md)
 - [Data Encoding](writeups/data-encoding.md)
 - [Python Simple Demo](writeups/python-simple-demo.md)
+- [JavaScript Simple Demo](writeups/javascript-simple-demo.md)
 
 ## 📁 Структура репозитория
 
