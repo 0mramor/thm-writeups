@@ -24,6 +24,7 @@
 - [Data Encoding](writeups/data-encoding.md)
 - [Python Simple Demo](writeups/python-simple-demo.md)
 - [JavaScript Simple Demo](writeups/javascript-simple-demo.md)
+- [SQL Fundamentals](writeups/sql-basics.md)
 
 ## 📁 Структура репозитория
 
