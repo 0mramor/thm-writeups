@@ -25,6 +25,7 @@
 - [Python Simple Demo](writeups/python-simple-demo.md)
 - [JavaScript Simple Demo](writeups/javascript-simple-demo.md)
 - [SQL Fundamentals](writeups/sql-basics.md)
+- [What is Networking?](writeups/what-is-networking.md)
 
 ## 📁 Структура репозитория
 
