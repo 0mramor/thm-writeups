@@ -26,6 +26,7 @@
 - [JavaScript Simple Demo](writeups/javascript-simple-demo.md)
 - [SQL Fundamentals](writeups/sql-basics.md)
 - [What is Networking?](writeups/what-is-networking.md)
+- [Intro to LAN](writeups/intro-to-lan.md)
 
 ## 📁 Структура репозитория
 
