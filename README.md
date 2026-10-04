@@ -27,6 +27,7 @@
 - [SQL Fundamentals](writeups/sql-basics.md)
 - [What is Networking?](writeups/what-is-networking.md)
 - [Intro to LAN](writeups/intro-to-lan.md)
+- [OSI Model](writeups/osi-model.md)
 
 ## 📁 Структура репозитория
 
