@@ -28,6 +28,7 @@
 - [What is Networking?](writeups/what-is-networking.md)
 - [Intro to LAN](writeups/intro-to-lan.md)
 - [OSI Model](writeups/osi-model.md)
+- [Packets & Frames](writeups/packets-and-frames.md)
 
 ## 📁 Структура репозитория
 
