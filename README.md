@@ -29,6 +29,7 @@
 - [Intro to LAN](writeups/intro-to-lan.md)
 - [OSI Model](writeups/osi-model.md)
 - [Packets & Frames](writeups/packets-and-frames.md)
+- [Extending Your Network](writeups/extending-your-network.md)
 
 ## 📁 Структура репозитория
 
