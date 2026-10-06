@@ -30,6 +30,7 @@
 - [OSI Model](writeups/osi-model.md)
 - [Packets & Frames](writeups/packets-and-frames.md)
 - [Extending Your Network](writeups/extending-your-network.md)
+- [DNS in Detail](writeups/dns-in-detail.md)
 
 ## 📁 Структура репозитория
 
