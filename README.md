@@ -9,9 +9,9 @@
 
 ### Pre Security
 - [x] Введение в кибербезопасность
-- [ ] Основы сетей
+- [x] Основы сетей
 - [x] Основы операционных систем (Linux/Windows) — Linux CLI Basics, Windows CLI Basics, Operating System Security
-- [ ] Основы веб-технологий
+- [x] Основы веб-технологий
 
 ### Jr Penetration Tester
 - [ ] Пока не начал
