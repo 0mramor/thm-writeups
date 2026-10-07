@@ -31,6 +31,8 @@
 - [Packets & Frames](writeups/packets-and-frames.md)
 - [Extending Your Network](writeups/extending-your-network.md)
 - [DNS in Detail](writeups/dns-in-detail.md)
+- [HTTP in Detail](writeups/http-in-detail.md)
+- [How Websites Work](writeups/how-websites-work.md)
 
 ## 📁 Структура репозитория
 
