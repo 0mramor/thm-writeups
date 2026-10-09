@@ -1,7 +1,7 @@
 # TryHackMe — HTTP in Detail
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-06
 
 ## What I learned
 URL structure, HTTP status codes, HTTP methods, and the Set-Cookie header.

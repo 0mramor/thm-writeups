@@ -1,7 +1,7 @@
 # TryHackMe — How Websites Work
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-06
 
 ## What I learned
 Frontend vs backend, how JavaScript interacts with HTML via the DOM, and a first hands-on look at HTML injection.

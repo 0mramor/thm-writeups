@@ -1,7 +1,7 @@
 # TryHackMe — Extending Your Network
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-05
 
 ## What I learned
 Devices used to build and extend a network: switches, routers, hubs, access points — and how firewalls fit into the OSI model.

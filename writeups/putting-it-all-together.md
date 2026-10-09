@@ -1,7 +1,7 @@
 # TryHackMe — Putting It All Together
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-08
 
 ## What I learned
 How a website request works end to end, and the extra components that sit between a user and a web application: load balancers, CDNs, and WAFs.

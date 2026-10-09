@@ -1,7 +1,7 @@
 # TryHackMe — Packets & Frames
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-04
 
 ## What I learned
 How data is named at each OSI layer during encapsulation, the TCP three-way handshake, UDP's lack of built-in reliability, and some real-world practice capturing and reading network traffic with Wireshark.

@@ -1,7 +1,7 @@
 # TryHackMe — Intro to LAN
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-02
 
 ## What I learned
 Network topologies, ARP, and DHCP — how devices find and communicate with each other on a local network.

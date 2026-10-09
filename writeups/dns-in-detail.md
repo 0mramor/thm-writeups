@@ -1,7 +1,7 @@
 # TryHackMe — DNS in Detail
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-05
 
 ## What I learned
 How DNS resolves domain names to IP addresses, the hierarchy of DNS servers, common record types, and hands-on queries with nslookup.

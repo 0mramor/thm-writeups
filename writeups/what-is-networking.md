@@ -1,7 +1,7 @@
 # TryHackMe — What is Networking?
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-01
 
 ## What I learned
 Introduction to networking fundamentals: IP addresses, MAC addresses, public vs private networks, basic ping/ICMP, and a bit of internet history.

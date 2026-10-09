@@ -1,7 +1,7 @@
 # TryHackMe — OSI Model
 
 ## Date
-(впиши сегодняшнюю дату)
+2026-10-03
 
 ## What I learned
 The 7 layers of the OSI model and how data moves through them when sent and received.
