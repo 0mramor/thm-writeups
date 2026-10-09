@@ -33,6 +33,7 @@
 - [DNS in Detail](writeups/dns-in-detail.md)
 - [HTTP in Detail](writeups/http-in-detail.md)
 - [How Websites Work](writeups/how-websites-work.md)
+- [Putting It All Together](writeups/putting-it-all-together.md)
 
 ## 📁 Структура репозитория
 
