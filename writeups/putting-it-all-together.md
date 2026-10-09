@@ -29,8 +29,5 @@ How a website request works end to end, and the extra components that sit betwee
 - Can run as software (e.g. ModSecurity), a hardware appliance, or a cloud service (e.g. Cloudflare)
 - Limitations: it doesn't replace secure code, it can be bypassed (encoded payloads, hitting the origin IP directly), and it can produce false positives
 
-## Notes
-(add anything specific from Task 3 on web servers if needed)
-
 ## Summary
 Closes out the Pre Security web section. DNS, TCP/TLS, HTTP, SQL and the OSI layers from earlier rooms now fit into one request/response picture.
