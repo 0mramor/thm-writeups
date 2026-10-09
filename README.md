@@ -14,7 +14,7 @@
 - [x] Основы веб-технологий
 
 ### Jr Penetration Tester
-- [x] Пока не начал
+- [ ] Пока не начал
 
 ## 📝 Write-ups
 - [Linux CLI Basics](writeups/linux-cli-basics.md)
@@ -43,7 +43,10 @@
 
 ## 🛠️ Инструменты, с которыми знакомлюсь
 - Git / GitHub
-- Nmap
+- Wireshark (захват и разбор собственного трафика: TLS vs HTTP)
+- nslookup (DNS-запросы)
+- Python, Node.js (базовые скрипты)
+- VS Code
 - Linux terminal basics
 
 ## 📝 Заметки
