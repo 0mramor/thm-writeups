@@ -34,6 +34,7 @@
 - [HTTP in Detail](writeups/http-in-detail.md)
 - [How Websites Work](writeups/how-websites-work.md)
 - [Putting It All Together](writeups/putting-it-all-together.md)
+- [The CIA Triad](writeups/the-cia-triad.md)
 
 ## 📁 Структура репозитория
 
