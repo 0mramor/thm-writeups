@@ -14,7 +14,7 @@
 - [x] Основы веб-технологий
 
 ### Jr Penetration Tester
-- [x] Пока не начал
+- [ ] Пока не начал
 
 ## 📝 Write-ups
 - [Linux CLI Basics](writeups/linux-cli-basics.md)
