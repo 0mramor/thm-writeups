@@ -16,6 +16,8 @@
 ### Jr Penetration Tester
 - [ ] Пока не начал
 
+test
+
 ## 📝 Write-ups
 - [Linux CLI Basics](writeups/linux-cli-basics.md)
 - [Windows CLI Basics](writeups/windows-cli-basics.md)
