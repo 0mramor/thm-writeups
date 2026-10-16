@@ -14,7 +14,7 @@
 - [x] Основы веб-технологий
 
 ### Jr Penetration Tester
-- [x] Пока не начал
+- [ ] Пока не начал
 
 ## 📝 Write-ups
 - [Linux CLI Basics](writeups/linux-cli-basics.md)
@@ -36,6 +36,7 @@
 - [Putting It All Together](writeups/putting-it-all-together.md)
 - [The CIA Triad](writeups/the-cia-triad.md)
 - [Cryptography Concepts](writeups/cryptography-concepts.md)
+- [CyberHeroes](writeups/cyberheroes.md)
 
 ## 📁 Структура репозитория
 
