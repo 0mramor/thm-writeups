@@ -35,6 +35,7 @@
 - [How Websites Work](writeups/how-websites-work.md)
 - [Putting It All Together](writeups/putting-it-all-together.md)
 - [The CIA Triad](writeups/the-cia-triad.md)
+- [Cryptography Concepts](writeups/cryptography-concepts.md)
 
 ## 📁 Структура репозитория
 
