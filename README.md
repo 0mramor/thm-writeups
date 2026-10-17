@@ -37,6 +37,8 @@
 - [The CIA Triad](writeups/the-cia-triad.md)
 - [Cryptography Concepts](writeups/cryptography-concepts.md)
 - [CyberHeroes](writeups/cyberheroes.md)
+- [Become a Hacker](writeups/become-a-hacker.md)
+
 
 ## 📁 Структура репозитория
 
