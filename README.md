@@ -38,6 +38,7 @@
 - [Cryptography Concepts](writeups/cryptography-concepts.md)
 - [CyberHeroes](writeups/cyberheroes.md)
 - [Become a Hacker](writeups/become-a-hacker.md)
+- [Certificates, CA & HTTPS Trust (self-study)](writeups/certificates-and-trust.md)
 
 
 ## 📁 Структура репозитория
